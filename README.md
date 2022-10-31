@@ -1,3 +1,3 @@
 # rsschool-cv
 fix1
-very important addition!
+very important additio
