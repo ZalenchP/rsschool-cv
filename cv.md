@@ -1,6 +1,24 @@
-Pavel Zalenski. +375292103924 //mts zalench#4775 //discord zalenpo@gmail.com My goal at the moment is to realize myself as a professional pragrammer. My strengths: Sharp mind. A bore in matters of interest to me. Curiosity. Resourcefulness in finding solutions to problems. Worked as an individual entrepreneur (retail trade). At the moment I work as a crusher operator (plastic processing). The desire to be the best in my field motivates me to develop myself. I have basic C# skills.
+# Pavel Zalenski
+![foto](C:\Users\User\YandexDisk\Скриншоты)
+## Contacts
 
-https://www.codewars.com/kata/523f5d21c841566fde000009/train/csharp 
+*Location: Kalinkovichi, Belarus
+*Phone: +375 29 210-39-24
+*Email: zalenpo@gmail.com
+*GitHub: [ZalenchP](https://github.com/ZalenchP/rsschool-cv)
+*Discord: zalench#4775
+
+### About Me
+
+My goal at the moment is to realize myself as a professional pragrammer. My strengths: Sharp mind. A bore in matters of interest to me. Curiosity. Resourcefulness in finding solutions to problems. Worked as an individual entrepreneur (retail trade). At the moment I work as a crusher operator (plastic processing). The desire to be the best in my field motivates me to develop myself.
+
+**Skills**
+
+ C#(Basic)
+
+**Code Example**
+
+[codewars.com](https://www.codewars.com/kata/523f5d21c841566fde000009/train/csharp) 
 ```
 public class Kata { public static int[] ArrayDiff(int[] a, int[] b)
 { 
@@ -47,5 +65,17 @@ return c;
 }
 } 
 ```
+### Experience
+No programming experience.
 
-No programming experience. .NET Development (2021Q4/BY/2) completed course. English level A1 No completed projects yet. https://github.com/ZalenchP/rsschool-cv
+## Education
+Belarus. Kalinkovichi. Agricultural College. Agronomist.
+
+## Courses 
+.NET Development (2021Q4/BY/2) completed course.
+
+## English
+English level A1 
+
+## Projects
+No completed projects yet. https://github.com/ZalenchP/rsschool-cv
