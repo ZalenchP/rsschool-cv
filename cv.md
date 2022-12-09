@@ -1,22 +1,27 @@
 # Pavel Zalenski
-![foto](C:\Users\User\YandexDisk\Скриншоты)
-## Contacts
+![foto](2022-12-09_11-06-27.png)
 
-*Location: Kalinkovichi, Belarus
-*Phone: +375 29 210-39-24
-*Email: zalenpo@gmail.com
-*GitHub: [ZalenchP](https://github.com/ZalenchP/rsschool-cv)
-*Discord: zalench#4775
+---
+### Contacts
 
+* Location: Kalinkovichi, Belarus
+* Phone: +375 29 210-39-24
+* Email: zalenpo@gmail.com
+* GitHub: [ZalenchP](https://github.com/ZalenchP/rsschool-cv)
+* Discord: zalench#4775
+
+---
 ### About Me
 
 My goal at the moment is to realize myself as a professional pragrammer. My strengths: Sharp mind. A bore in matters of interest to me. Curiosity. Resourcefulness in finding solutions to problems. Worked as an individual entrepreneur (retail trade). At the moment I work as a crusher operator (plastic processing). The desire to be the best in my field motivates me to develop myself.
 
-**Skills**
+---
+### Skills
 
- C#(Basic)
+* C#(Basic)
 
-**Code Example**
+---
+### Code Example
 
 [codewars.com](https://www.codewars.com/kata/523f5d21c841566fde000009/train/csharp) 
 ```
@@ -65,17 +70,22 @@ return c;
 }
 } 
 ```
+---
 ### Experience
 No programming experience.
 
-## Education
+---
+### Education
 Belarus. Kalinkovichi. Agricultural College. Agronomist.
 
-## Courses 
+---
+### Courses 
 .NET Development (2021Q4/BY/2) completed course.
 
-## English
+---
+### English
 English level A1 
 
-## Projects
+---
+### Projects
 No completed projects yet. https://github.com/ZalenchP/rsschool-cv
